@@ -1,0 +1,20 @@
+/* Ensure the h1 is centered */
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #3B3B3B;
+    color: #FA9F42;
+}
+
+/* Container background */
+.container {
+    background-color: #F7B538;
+
+
+/* Image styling */
+img {
+    width: 95px;
+}
+
